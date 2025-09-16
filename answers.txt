@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Q1: Why might we consider using Git?
 
 
 Answer: Version Control, allows us to test different things without affecting master code, allows for effective saving and maniupluation of code snapshots
+=======
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Marketing. When deciding which marketing campaign was most effective we could collect regional data based on different adds and compare which would caused more clicks on a link
+>>>>>>> q2
