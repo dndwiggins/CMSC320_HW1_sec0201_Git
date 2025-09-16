@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Marketing. When deciding which marketing campaign was most effective we could collect regional data based on different adds and compare which would caused more clicks on a link
